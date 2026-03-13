@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Nikolai. I'm currently building [reina](https://joinreina.com). Previously, I been studying and researching at TUM, Stanford and Peking University.
+Hi, I'm Nikolai. I'm currently building [miora](https://getmiora.com). Previously, I been studying and researching at Stanford, TUM, and Peking University.
 
 #### How to reach me:
  - [🌐 Homepage](https://madlener.io)
